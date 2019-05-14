@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SbActuatorTestApplication {
 
 	public static void main(String[] args) {
+	    
 		SpringApplication.run(SbActuatorTestApplication.class, args);
 	}
 
